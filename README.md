@@ -2,10 +2,10 @@
 
 Este repositorio contiene los entregables académicos para la actividad de familiarización con el entorno de desarrollo Flutter, el proceso de compilación de aplicaciones móviles y la gestión de versiones.
 
-## 📋 Descripción de la Actividad
+## Descripción de la Actividad
 El objetivo principal es demostrar la capacidad de crear, configurar y compilar aplicaciones en Flutter, generando entregables instalables (APK) y documentando el proceso mediante control de versiones .
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 
 El proyecto se organiza como un monorepo que contiene dos aplicaciones independientes:
 
@@ -21,7 +21,7 @@ El proyecto se organiza como un monorepo que contiene dos aplicaciones independi
 
 ---
 
-## 🚀 Instrucciones de Compilación
+## Instrucciones de Compilación
 
 Para generar los archivos instalables (`.apk`) en modo *release* para cualquiera de los dos proyectos, siga estos pasos en su terminal:
 
@@ -46,14 +46,13 @@ Para generar los archivos instalables (`.apk`) en modo *release* para cualquiera
 
 Las capturas de pantalla a continuación demuestran la correcta instalación y ejecución de los archivos APK generados en un dispositivo móvil físico .
 
-*(Nota: Adjuntar aquí las capturas de pantalla de tu celular)*
-
 | Proyecto Base | Proyecto Vacío |
 |:-------------:|:--------------:|
 | ![Screenshot Base](screenshots/ProyectoBase.jpg) | ![Screenshot Empty](screenshots/ProyectoEmpty.jpg) |
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 **Sadid Enrique Acosta Osorio**
+
 Ingeniero Multimedia.
