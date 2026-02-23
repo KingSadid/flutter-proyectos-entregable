@@ -42,7 +42,7 @@ Para generar los archivos instalables (`.apk`) en modo *release* para cualquiera
 
 ---
 
-## 📱 Evidencias de Funcionamiento
+## Evidencias de Funcionamiento
 
 Las capturas de pantalla a continuación demuestran la correcta instalación y ejecución de los archivos APK generados en un dispositivo móvil físico .
 
