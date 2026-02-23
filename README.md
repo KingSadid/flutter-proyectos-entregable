@@ -1,6 +1,6 @@
 # Proyectos de Introducción a Flutter
 
-Este repositorio contiene los entregables académicos para la actividad de familiarización con el entorno de desarrollo Flutter, el proceso de compilación de aplicaciones móviles y la gestión de versiones.
+Este repositorio contiene los entregables para la actividad de familiarización con el entorno de desarrollo Flutter, el proceso de compilación de aplicaciones móviles y la gestión de versiones.
 
 ## Descripción de la Actividad
 El objetivo principal es demostrar la capacidad de crear, configurar y compilar aplicaciones en Flutter, generando entregables instalables (APK) y documentando el proceso mediante control de versiones .
