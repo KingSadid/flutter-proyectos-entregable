@@ -56,4 +56,4 @@ Las capturas de pantalla a continuación demuestran la correcta instalación y e
 
 ## 👨‍💻 Autor
 **Sadid Enrique Acosta Osorio**
-Desarrollador Flutter en formación.
+Ingeniero Multimedia.
