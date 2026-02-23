@@ -10,13 +10,17 @@ class EmptyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: false, 
       home: Scaffold(
         backgroundColor: Colors.white,
         body: Center(
           child: Text(
             'Proyecto Empty - Sadid Acosta',
-            style: TextStyle(fontSize: 20),
+            style: TextStyle(
+              fontSize: 24, 
+              color: Colors.black,
+              fontWeight: FontWeight.bold
+            ),
           ),
         ),
       ),
